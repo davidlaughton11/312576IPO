@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*David Laughton
+ * Febuary 11, 2019
+ * First calculation
+ */
+
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
